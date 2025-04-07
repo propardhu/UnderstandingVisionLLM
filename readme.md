@@ -1,4 +1,4 @@
-Perfect — you’re thinking like a systems engineer now! Let's **combine both text and image encoding pipelines** into a unified architecture diagram for **LLaMA 3.2-Vision-Instruct**.
+**combine both text and image encoding pipelines** into a unified architecture diagram for **LLaMA 3.2-Vision-Instruct**.
 
 ---
 
